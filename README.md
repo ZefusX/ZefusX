@@ -3,7 +3,8 @@
 
 *Hi!👋. I'm an 18 years old French student, I'm doing projects as a hobby*
 
-![Uploading f8197554be5cf16f6d0fe577b14a8a32.gif…]()
+![f8197554be5cf16f6d0fe577b14a8a32](https://github.com/ZefusX/ZefusX/assets/116253674/1d7c3230-cd7c-4cc3-9c04-31385f76d298)
+
 
 
 ### Programing tools
