@@ -3,7 +3,8 @@
 
 *Hi!👋. I'm an 18 years old French student, I'm doing projects as a hobby*
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F811351689107340643%2F&psig=AOvVaw2ogutQCL0HbbcXVJfhHWkV&ust=1708950862669000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCchZvAxoQDFQAAAAAdAAAAABAV" />
+![Uploading f8197554be5cf16f6d0fe577b14a8a32.gif…]()
+
 
 ### Programing tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
