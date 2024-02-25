@@ -15,7 +15,8 @@
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br>
  
-[![Zefus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZefusX)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZefusX&size_weight=0.5&count_weight=0.5)
+
 
 
 ### Other
