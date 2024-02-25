@@ -1,5 +1,8 @@
-### Hi there 👋
+### Zefus 👋
 
+
+<img align="left" alt="Arch" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+          
 <!--
 **ZefusX/ZefusX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
